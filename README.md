@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohamedgalalelsheikh11@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-galal-/](https://www.linkedin.com/in/mohamed-galal-/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-galal-](https://www.linkedin.com/in/mohamed-galal-)
 
 - ⚡ Fun fact **I like sport**
 
