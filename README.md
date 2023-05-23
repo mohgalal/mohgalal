@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Food Recipes app](https://github.com/mohgalal/Food-Recipes-App)
 
-- 🌱 I’m currently learning **Android Jetpack**
+- 🌱 I’m currently learning **KMM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohgalal](https://github.com/mohgalal)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-galal-](https://www.linkedin.com/in/mohamed-galal-)
 
-- ⚡ Fun fact **I like sport**
+- ⚡ Fun fact **I like sport and reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
