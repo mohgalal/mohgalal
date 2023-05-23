@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohgalal" alt="mohgalal" /></a> </p>
 
-- 🔭 I’m currently working on [Food Recipes app](https://github.com/mohgalal/Food-Recipes-App)
 
 - 🌱 I’m currently learning **KMM**
 
